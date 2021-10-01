@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidCopy</string>
+    <string name="check_password_string">회원님의 소중한 정보 보호를 위해, 카카오계정의 현재 비밀번호를 확인해 주세요.</string>
+    <string name="forget_password">비밀번호가 기억나지 않으세요?</string>
+    <string name="enter">확인</string>
+    <string name="password">비밀번호</string>
+    <string name="default_email">kkang104@gmail.net</string>
+    <string name="i_am_bold">나는 빡빡이다</string>
+</resources>
